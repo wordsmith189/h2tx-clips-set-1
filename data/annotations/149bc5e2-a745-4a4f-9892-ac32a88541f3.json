@@ -1,5 +1,88 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, um, but I do understand that, you know, not everybody sees things the way that I see things, but as far as I'm concerned, um, I've not really had any dealings where people have, um, have a situations like that in their life. That's  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c09680d5-ad43-4f5b-8d28-741b1cddeb7d"
+    },
+    {
+      "start_time": 25,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great. Yes. You're doing amazing. Okay. Uh, so could you tell me about the roles in relationships that you have specifically in this  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5cffbf04-3d44-4ea9-9b33-a184e72a3271"
+    },
+    {
+      "start_time": 35,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Community? Roles and relationships? Mm-hmm "
+        },
+        {
+          "text": ". Okay. Um, well,  "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5d7f552b-ae0c-4c50-b9a9-70e3a52e2337"
+    },
+    {
+      "start_time": 44,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I did teach school for thirty seven years. Um, from the time I was a little girl, I always wanted to be a school teacher. So I went straight through, um, elementary, junior high, high school, straight into junior college "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c7e83823-f62a-47bf-bf54-02cc80130102"
+    }
+  ],
   "set": "Default",
   "event_id": "4eed3086-8aec-4424-82ea-4140651a9ac0",
   "source_id": "2a40bf19-80d5-48fe-9475-845e63d2ec78"
