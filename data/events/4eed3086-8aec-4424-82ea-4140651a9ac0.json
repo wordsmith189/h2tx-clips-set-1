@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "2a40bf19-80d5-48fe-9475-845e63d2ec78": {
+      "label": "Tyler_MN_06292024_2",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/pflugerville-am-06062024-1_202506/Tyler_MN_06292024_2.mp3",
+      "duration": 59,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Tyler_MN_06292024_2",
+  "created_at": "2025-06-24T16:01:13.215Z",
+  "created_by": "wordsmith189",
+  "updated_at": "2025-06-24T16:01:13.215Z",
+  "updated_by": "wordsmith189"
+}
