@@ -1,5 +1,111 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SPACEX, obviously. I mean, I hate to keep mentioning them. But yeah, yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1da943cf-3738-4a35-89cc-a93f594a4ef0"
+    },
+    {
+      "start_time": 4,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. What would you say are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "57ac669a-2853-49c2-9e08-217edc4d1e3a"
+    },
+    {
+      "start_time": 8,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I really think it's the that team, the team spirit. Um, Um, You know, that's, I think that's really the strengths of this community. And I think also that it's has a, even though it's grown, I mean, it has a sense of, it still has the feel of a small town, but you know, or the feel of when I grew up here, so. But I mean, so I think all those are kind of what makes this place so special. And of course, that we're close to Mexico, and, you know, we're not very far from the beach. So, you know-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5466142f-91ea-4fe9-98c2-71e3cd6b8f60"
+    },
+    {
+      "start_time": 51,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's good. I agree. What would you say are some of the weaknesses of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3796c128-9526-4cd4-9d94-bb6b06f4d005"
+    },
+    {
+      "start_time": 57,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um [PERIOD OF HESISTATION]. Well, I think one of the my, one of them is that, you know, we don't, I don't sometimes see a lot of it, [PERIOD OF HESISTATION,] you know, not opportunities, but like, I wish we had more flights out of here. Yes. You know, I mean, we have, I have...I don't mind going to [NEIGHBORING COMMUNITY NAME] If I have to go to [NEIGHBORING COMMUNITY NAME], I will, but I don't do it very often. But I just think if we had some more of those kinds of opportunities. And, and, and, I think sometimes, while I do talk about this team, community team spirit, sometimes you do see some of the divisions in the community. And it would kind of be nice if everybody worked together you know? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "14f65f43-6bf2-4b66-800b-d07b45657956"
+    }
+  ],
   "set": "Default",
   "event_id": "72bfbb66-d264-4021-9578-50a812b03c65",
   "source_id": "6fed5fda-a2e5-48d6-969d-580b8b859435"
