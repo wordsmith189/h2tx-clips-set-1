@@ -4,11 +4,12 @@
   "created_by": "wordsmith189",
   "title": "Tyler_MN_06292024_2",
   "slug": "tylermn062920242",
-  "updated_at": "2025-06-24T16:01:13.430Z",
+  "updated_at": "2025-06-24T17:16:29.926Z",
   "updated_by": "wordsmith189",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "4eed3086-8aec-4424-82ea-4140651a9ac0"
-  }
+  },
+  "parent": "4bf9965d-3b8d-422a-863f-2f449510fbc2"
 }
