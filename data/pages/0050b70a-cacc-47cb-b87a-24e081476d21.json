@@ -4,11 +4,12 @@
   "created_by": "wordsmith189",
   "title": "Donna_AR_07192024_1",
   "slug": "donnaar071920241",
-  "updated_at": "2025-06-24T17:13:01.001Z",
+  "updated_at": "2025-06-24T17:16:37.021Z",
   "updated_by": "wordsmith189",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "63307b2b-846e-486e-a5d9-18e8300098cd"
-  }
+  },
+  "parent": "4bf9965d-3b8d-422a-863f-2f449510fbc2"
 }
