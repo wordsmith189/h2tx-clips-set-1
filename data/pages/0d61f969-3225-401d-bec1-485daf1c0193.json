@@ -4,11 +4,12 @@
   "created_by": "wordsmith189",
   "title": "Brownsville_KJ_07242024_1",
   "slug": "brownsvillekj072420241",
-  "updated_at": "2025-06-24T14:25:25.212Z",
+  "updated_at": "2025-06-24T17:16:07.280Z",
   "updated_by": "wordsmith189",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "72bfbb66-d264-4021-9578-50a812b03c65"
-  }
+  },
+  "parent": "4bf9965d-3b8d-422a-863f-2f449510fbc2"
 }
