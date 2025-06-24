@@ -4,11 +4,12 @@
   "created_by": "wordsmith189",
   "title": "Pflugerville_AM_06062024_1",
   "slug": "pflugervilleam060620241",
-  "updated_at": "2025-06-24T01:21:51.173Z",
+  "updated_at": "2025-06-24T17:16:15.288Z",
   "updated_by": "wordsmith189",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "5d60c15c-817d-493f-9b5a-ad6bef6c1396"
-  }
+  },
+  "parent": "4bf9965d-3b8d-422a-863f-2f449510fbc2"
 }
