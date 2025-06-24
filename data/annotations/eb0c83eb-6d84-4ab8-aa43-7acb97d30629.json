@@ -1,5 +1,111 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of leadership, character service, uh,\nokay. They, they were an academics, you know, uh, that, that was expected. And if you didn't, I had to\nkick kids out of Honor Society. \"If they were, they'd get to [INAUDIBLE] if they were tardy to class three times over out. If they made a\nD or an F, they're out, you didn't live up to the expectations. So I had those hard times. But I was\nalways open and straightforward. I would tell them, they knew the rules. And so I-I will always be\ntransparent. And if something is not right, clarified, I'm not going to accuse you. And well, in those\ncases, I would have evidence, you know, so you have to-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "bcc4d803-32b8-49b3-b2fa-d92463e3a60a"
+    },
+    {
+      "start_time": 46,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's truly valuable. Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9905e1b6-5094-4dfe-bdef-8d62af92687f"
+    },
+    {
+      "start_time": 48,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is I think that's something that maybe be missing now, and again, and not just our community, but uh-\nuh for truth. And um, yeah, people are for their own self."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d659a017-f78c-4366-845e-13ce7b16dc1a"
+    },
+    {
+      "start_time": 62,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yup, so the next question is a lot of people think of the 1990s as [OPENS WATERBOTTLE] \"the golden decade of pop music. Do you agree? If no, what was the best decade in pop music and\nwhy?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "933a2137-3ea3-4244-a9ef-f463517a6a11"
+    },
+    {
+      "start_time": 77,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] Well, I guess we would have to go back to the definition of pop music. Um, if you're saying\npopular music, uh there's a lot of things I was never a rapper will say. Uh, But I go back to again, with\nmusic and play the piano. So I liked, I liked all of the decades, uh the 20s to 30s because I didn't live\ndown but I played the music. Uh, as far as listening. I still, uh, I was an Elvis Presley, 60s that's, I think\nwhat you hear in high school becomes what you identify with. Okay. And so, uh, but again, um, I I've\nembraced modern music, um, whether, uh, usually it goes more by a group or, uh an individual like,\nokay, I-I in Willie Nelson or Johnny Cash or Kenny Rogers or whether it's some of the Beatles songs or\nNeil Diamond, uh, so "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "9281e6d4-0955-42fa-b648-5d6debe32931"
+    }
+  ],
   "set": "Default",
   "event_id": "5d60c15c-817d-493f-9b5a-ad6bef6c1396",
   "source_id": "f353dde8-38f3-4f25-a6d8-a5e576a098fc"
