@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "f353dde8-38f3-4f25-a6d8-a5e576a098fc": {
+      "label": "Pflugerville_AM_06062024_1",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/pflugerville-am-06062024-1_202506/Pflugerville_AM_06062024_1.mp3",
+      "duration": 141,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Pflugerville_AM_06062024_1",
+  "created_at": "2025-06-24T01:21:50.950Z",
+  "created_by": "wordsmith189",
+  "updated_at": "2025-06-24T01:21:50.950Z",
+  "updated_by": "wordsmith189"
+}
